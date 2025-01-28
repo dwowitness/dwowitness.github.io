@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Weekly on 千秋邈矣独留我；百战归来再读书。</title>
+    <link>http://localhost:1313/weekly/</link>
+    <description>Recent content in Weekly on 千秋邈矣独留我；百战归来再读书。</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>dwowitness@gmail.com (Soryuwu Asuka)</managingEditor>
+    <webMaster>dwowitness@gmail.com (Soryuwu Asuka)</webMaster>
+    <copyright>Soryuwu Asuka (CC BY 4.0)</copyright>
+    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/weekly/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
